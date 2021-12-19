@@ -31,3 +31,7 @@ npx jest <nome_do_arquivo>
 <a href="mailto:mauroviniciussilva@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Mauro%20Vinicius%20Silva%20Oliveira-Contribuindo-<COLOR>.svg">
 </a>
+
+
+
+![image](https://user-images.githubusercontent.com/12539016/146693215-ed499c43-664c-48b2-9f63-fd2ab75ed7a5.png)
